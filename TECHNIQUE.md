@@ -12,7 +12,7 @@ Prototype monopage indépendant et fictif, réalisé pour le défi LIVE EXPERIEN
 - Serveur lié à `127.0.0.1:4173` par défaut ; un contrôle de chemin bloque les requêtes sortant du dossier du projet.
 - Le site peut s’ouvrir directement depuis `index.html`, mais le serveur local est le parcours recommandé.
 
-La réalisation a été effectuée par **Manus, agent IA**. L’environnement ne fournit ni l’identifiant/la version exacte du modèle sous-jacent ni le numéro de version de l’agent Manus ; le nom « Manus » ne constitue pas une version de modèle. Les tokens consommés et le coût interne de la plateforme ne sont pas visibles ; aucune valeur n’est inventée. Le site livré n’embarque ni n’appelle aucun modèle.
+La réalisation a été effectuée par **Manus 2.0, agent IA** ; cette version de l’agent a été précisée pour le projet. L’identifiant et la version exacte du modèle sous-jacent ne sont pas exposés par l’environnement. Les tokens consommés et le coût interne de la plateforme ne sont pas visibles ; aucune valeur n’est inventée. Le site livré n’embarque ni n’appelle aucun modèle.
 
 ## Essais exécutés
 

@@ -6,7 +6,7 @@
 
 ## Attribution de l’IA et origine de la demande
 
-Ce projet a été réalisé par **Manus, agent d’intelligence artificielle**, en réponse à la demande reçue le 27 octobre 2026 et au brief créatif **LIVE EXPERIENCE 2027**. L’environnement ne communique ni l’identifiant et la version précise du modèle sous-jacent, ni le numéro de version de l’agent ; il serait inexact d’en inventer un. « Manus » désigne ici l’agent utilisé, pas une version de modèle.
+Ce projet a été réalisé par **Manus 2.0, agent d’intelligence artificielle**, en réponse à la demande reçue le 27 octobre 2026 et au brief créatif **LIVE EXPERIENCE 2027**. Manus 2.0 désigne ici la version de l’agent utilisée, conformément à la précision fournie pour ce projet. L’environnement ne communique pas l’identifiant ni la version précise du modèle sous-jacent ; cette information reste donc non identifiée.
 
 La demande était un exercice créatif indépendant : **Hellfest n’a ni commandé, ni validé, ni annoncé cette édition**. L’anniversaire, le nom *HORS TEMPS*, le thème, les dates, le lieu imaginaire, le programme et les interactions événementielles sont des inventions pour ce prototype, sans prétention à correspondre à un anniversaire réel de l’organisation.
 
@@ -115,4 +115,3 @@ Les détails techniques, le contexte, la mesure de durée disponible et les limi
 ## État GitHub
 
 Le Markdown et les images utilisent des chemins relatifs compatibles avec l’affichage GitHub. **Le dossier local n’est pas un dépôt Git et aucun remote n’a été trouvé ; rien n’a été publié.** Le contenu est préparé pour y être ajouté ultérieurement, sans prétendre qu’il est déjà consultable sur GitHub.
-
