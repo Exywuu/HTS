@@ -8,7 +8,7 @@
 
 ## Attribution de l’IA et origine de la demande
 
-Ce projet a été réalisé par **Manus 2.0, agent d’intelligence artificielle**, en réponse à la demande reçue le 27 octobre 2026 et au brief créatif **LIVE EXPERIENCE 2027**. Manus 2.0 désigne ici la version de l’agent utilisée, conformément à la précision fournie pour ce projet. L’environnement ne communique pas l’identifiant ni la version précise du modèle sous-jacent ; cette information reste donc non identifiée.
+Ce projet a été réalisé par **Manus 2.0, agent d’intelligence artificielle**, en réponse à la demande reçue le 27 octobre 2026 et au brief créatif **LIVE EXPERIENCE 2027**.
 
 La demande était un exercice créatif indépendant : **Hellfest n’a ni commandé, ni validé, ni annoncé cette édition**. L’anniversaire, le nom *HORS TEMPS*, le thème, les dates, le lieu imaginaire, le programme et les interactions événementielles sont des inventions pour ce prototype, sans prétention à correspondre à un anniversaire réel de l’organisation.
 
@@ -112,8 +112,8 @@ npm test
 - Interactions essayées : sélection d’un récit et passage au suivant, création d’une carte à trois choix puis remise à zéro, changement de jours par clic et flèche clavier, ouverture et fermeture du dialogue de pass. Aucune erreur console n’a été observée lors du contrôle final.
 - Pas d’appareil physique, navigateur supplémentaire, audit WCAG automatisé, lecteur d’écran, score Lighthouse ou test de charge. Le site prend en charge `prefers-reduced-motion`, mais cette préférence n’a pas été auditée par un outil externe.
 
-Les détails techniques, le contexte, la mesure de durée disponible et les limites sont consignés dans [TECHNIQUE.md](TECHNIQUE.md). La version exacte du modèle, les tokens consommés et le coût interne de la plateforme ne sont pas exposés par l’environnement ; ils ne sont pas inventés.
+Les détails techniques, le contexte, la mesure de durée disponible et les limites sont consignés dans [TECHNIQUE.md](TECHNIQUE.md). Les tokens consommés et le coût interne de la plateforme ne sont pas disponibles.
 
 ## État GitHub
 
-Le Markdown et les images utilisent des chemins relatifs compatibles avec l’affichage GitHub. **Le dossier local n’est pas un dépôt Git et aucun remote n’a été trouvé ; rien n’a été publié.** Le contenu est préparé pour y être ajouté ultérieurement, sans prétendre qu’il est déjà consultable sur GitHub.
+Le code et la documentation sont publiés sur [GitHub](https://github.com/Exywuu/HTS), et la [démonstration](https://exywuu.github.io/HTS/) est accessible en ligne.
