@@ -12,7 +12,7 @@ Prototype monopage indépendant et fictif, réalisé pour le défi LIVE EXPERIEN
 - Serveur lié à `127.0.0.1:4173` par défaut ; un contrôle de chemin bloque les requêtes sortant du dossier du projet.
 - Le site peut s’ouvrir directement depuis `index.html`, mais le serveur local est le parcours recommandé.
 
-La réalisation a été effectuée par **Manus 2.0, agent IA** ; cette version de l’agent a été précisée pour le projet. L’identifiant et la version exacte du modèle sous-jacent ne sont pas exposés par l’environnement. Les tokens consommés et le coût interne de la plateforme ne sont pas visibles ; aucune valeur n’est inventée. Le site livré n’embarque ni n’appelle aucun modèle.
+La réalisation a été effectuée par **Manus 2.0, agent IA**. Les tokens consommés et le coût interne de la plateforme ne sont pas visibles ; aucune valeur n’est inventée. Le site livré n’embarque ni n’appelle aucun modèle.
 
 ## Essais exécutés
 
@@ -33,7 +33,7 @@ Depuis le dossier du projet, exécuter `npm start`, puis ouvrir `http://127.0.0.
 
 ## Autres capacités et limites de l’environnement
 
-- **Outils de code :** Manus Desktop, édition locale de fichiers, terminal PowerShell, Node/npm et outils Git installés. Le dossier du projet n’est pas initialisé comme dépôt Git et aucun remote n’a été trouvé ; aucune publication n’a eu lieu.
+- **Outils de code :** Manus Desktop, édition locale de fichiers, terminal PowerShell, Node/npm et outils Git installés. Lors de la réalisation initiale, le dossier n’était pas initialisé comme dépôt Git. Le projet a depuis été publié sur GitHub.
 - **Web :** accès aux pages publiques pour la recherche de sources ; celles-ci sont répertoriées dans `ANALYSE.md`.
 - **Navigateur :** prévisualisation et captures faites dans le navigateur intégré Manus ; version exacte de son moteur non exposée. Un exécutable Chrome 155.0.8059.85 est installé, mais ses tentatives de capture headless isolée n’ont pas servi de preuve ni d’image livrée.
 - **Création visuelle :** illustration, sigles et identité par SVG/CSS écrits pour le projet. Aucun service ou modèle de génération d’images n’a été utilisé.
